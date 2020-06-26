@@ -1,0 +1,76 @@
+,feature
+0,Sex_female
+1,Sex_male
+2,Title_Mr
+3,Survival_Rate_1.0
+4,Pclass_3
+5,Survival_Rate_0.0
+6,Deck_M
+7,Title_Mrs
+8,Title_Miss
+9,Age_group_adult
+10,Age_group_middle
+11,Pclass_1
+12,Embarked_S
+13,Deck_DE
+14,Ticket_Frequency_1
+15,Embarked_C
+16,Pclass_2
+17,Age_group_old
+18,"Fare_Category_(25.258, 27.721]"
+19,"Fare_Category_(27.721, 36.3]"
+20,"Fare_Category_(7.88, 8.05]"
+21,Age_group_child
+22,"Fare_Category_(8.712, 10.5]"
+23,Survival_Rate_0.6919191919191919
+24,Deck_ABC
+25,Ticket_Frequency_7
+26,FamilySize_6
+27,FamilySize_7
+28,SibSp_3
+29,Title_Master
+30,Ticket_Frequency_6
+31,Survival_Rate_0.25
+32,Age_group_child
+33,SibSp_1
+34,Survival_Rate_1.0
+35,Title_Mrs
+36,"Fare_Category_(-0.001, 5.464]"
+37,Ticket_Frequency_4
+38,Deck_M
+39,Parch_0
+40,Parch_5
+41,FamilySize_2
+42,Age_group_old
+43,Ticket_Frequency_2
+44,Parch_2
+45,Title_Officer
+46,"Fare_Category_(25.258, 27.721]"
+47,FamilySize_4
+48,Deck_FG
+49,Survival_Rate_NA_1.0
+50,Title_Mr
+51,Sex_female
+52,Sex_male
+53,Survival_Rate_1.0
+54,Pclass_3
+55,Survival_Rate_0.0
+56,Title_Miss
+57,Deck_M
+58,Title_Mrs
+59,Pclass_1
+60,Deck_DE
+61,Ticket_Frequency_1
+62,Age_group_middle
+63,FamilySizeCategory_small
+64,Survival_Rate_0.6919191919191919
+65,Age_group_adult
+66,"Fare_Category_(-0.001, 5.464]"
+67,Pclass_2
+68,Survival_Rate_0.1919191919191919
+69,Age_group_child
+70,"Fare_Category_(27.721, 36.3]"
+71,Age_group_old
+72,Embarked_S
+73,Deck_ABC
+74,"Fare_Category_(25.258, 27.721]"
